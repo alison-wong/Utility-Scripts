@@ -5,6 +5,7 @@ TABLE OF CONTENTS
     - Also useful for copying from any backup to new one.
     - Copies over files from dir1 to dir2 s.t. dir2's files are not replaced: does not copy over files in dir2 with the same 
     name, does not replace new subdirectories with old ones
+    - (Plain English), if you have old music files and new music files (in folders, ala iTunes), will copy over your old music files to your new music files without replacing/removing the new ones.
     - See README inside folder for use
     
 
